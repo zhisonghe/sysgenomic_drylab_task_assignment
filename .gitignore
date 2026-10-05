@@ -1,0 +1,12 @@
+# Input and output contain student information
+*.xlsx
+*.xls
+*.csv
+~$*
+
+.DS_Store
+__pycache__/
+.venv/
+
+# Full log with per-group details (publish only ASSIGNMENT_LOG_masked.md)
+ASSIGNMENT_LOG.md
